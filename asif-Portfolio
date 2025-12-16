@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Muhammad Asif | Senior Data Engineer</title>
+  <meta name="description" content="Senior Data Engineer / BI Architect with 20+ years of experience in P&C Insurance, Cloud Data Platforms, Snowflake, Azure, and Enterprise Data Integration." />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'Inter', sans-serif; margin: 0; background: #0f172a; color: #e5e7eb; line-height: 1.6; }
+    header { padding: 4rem 2rem; background: linear-gradient(135deg,#1e293b,#020617); }
+    h1 { font-size: 2.8rem; margin-bottom: .5rem; }
+    h2 { color: #38bdf8; margin-top: 3rem; }
+    h3 { margin-top: 1.5rem; }
+    p { max-width: 900px; }
+    .container { max-width: 1100px; margin: auto; padding: 2rem; }
+    .tag { display: inline-block; background:#1e293b; padding:.3rem .7rem; margin:.2rem; border-radius:5px; font-size:.85rem; }
+    .card { background:#020617; border:1px solid #1e293b; border-radius:12px; padding:1.5rem; margin-top:1.5rem; }
+    footer { text-align:center; padding:2rem; border-top:1px solid #1e293b; color:#94a3b8; }
+    a { color:#38bdf8; text-decoration:none; }
+    ul { padding-left:1.2rem; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <h1>Muhammad Asif</h1>
+    <p><strong>Senior Data Engineer / BI Architect</strong></p>
+    <p>P&C Insurance • Snowflake • Azure • Enterprise Data Integration</p>
+    <p>
+      📧 <a href="mailto:asifetlbi@gmail.com">asifetlbi@gmail.com</a> | 
+      📞 918-934-5893 | 
+      🔗 <a href="https://www.linkedin.com/in/mohasif/" target="_blank">LinkedIn</a>
+    </p>
+  </div>
+</header>
+
+<section class="container">
+  <h2>Professional Summary</h2>
+  <p>
+    Senior Data Engineer with 20+ years of experience designing, building, and modernizing enterprise data platforms.
+    Specialized in P&C Insurance data (Policy, Claims, Premium, Underwriting, Actuarial), Snowflake-based architectures,
+    Azure cloud migration, and large-scale subsidiary-to-parent company data integrations.
+  </p>
+</section>
+
+<section class="container">
+  <h2>Core Skills</h2>
+  <div>
+    <span class="tag">Snowflake</span>
+    <span class="tag">Azure Data Factory</span>
+    <span class="tag">Azure DevOps</span>
+    <span class="tag">Informatica IDMC</span>
+    <span class="tag">Python</span>
+    <span class="tag">SQL / T-SQL</span>
+    <span class="tag">SSIS / SSRS / SSAS</span>
+    <span class="tag">Power BI</span>
+    <span class="tag">Tableau</span>
+    <span class="tag">Data Warehousing</span>
+    <span class="tag">ETL / ELT</span>
+    <span class="tag">P&C Insurance</span>
+    <span class="tag">FDW / EDW</span>
+  </div>
+</section>
+
+<section class="container">
+  <h2>Featured Projects</h2>
+
+  <div class="card">
+    <h3>Enterprise P&C Data Integration (Subsidiary → Parent)</h3>
+    <p><strong>Mid-Continent Group → Great American Insurance Group</strong></p>
+    <ul>
+      <li>Designed Snowflake-based data pipelines integrating policy, claims, premium, underwriting, and financial data.</li>
+      <li>Built staging frameworks aligned with enterprise FDW and EDW ingestion standards.</li>
+      <li>Generated enterprise-grade TXT flat files consumed by parent-company warehouses.</li>
+      <li>Implemented logging, auditing, reconciliation, and error-handling frameworks.</li>
+      <li>Enabled shared IT resources between subsidiary and parent, reducing duplicate pipelines and infrastructure cost.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>Snowflake Staging & Enterprise File Delivery</h3>
+    <ul>
+      <li>Extracted data from Snowflake source schemas into standardized staging layers.</li>
+      <li>Built parameter-driven SQL transformations with validation and row-count reconciliation.</li>
+      <li>Automated TXT file creation with enterprise naming conventions and control totals.</li>
+      <li>Delivered files securely for FDW and EDW ingestion at the parent-company level.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>Cloud & Platform Modernization</h3>
+    <ul>
+      <li>Migrated on-prem DB2 and SQL Server workloads to Snowflake and Azure.</li>
+      <li>Built Informatica IDMC pipelines handling millions of records.</li>
+      <li>Improved scalability, reduced operational cost, and retired legacy platforms.</li>
+    </ul>
+  </div>
+</section>
+
+<section class="container">
+  <h2>Professional Experience</h2>
+
+  <div class="card">
+    <h3>Senior Data Engineer / Data Warehouse Analyst</h3>
+    <p><strong>Great American Insurance Group – Mid-Continent</strong> (2019 – Present)</p>
+    <ul>
+      <li>Lead enterprise data integration initiatives across subsidiary and parent organizations.</li>
+      <li>Designed Snowflake ingestion, staging, validation, and enterprise delivery frameworks.</li>
+      <li>Supported actuarial, finance, regulatory, and executive reporting.</li>
+      <li>Mentored engineers, enforced best practices, and supported Agile delivery.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>Senior BI / ETL Developer</h3>
+    <p><strong>Essendant Group (ORS Nasco)</strong> (2017 – 2019)</p>
+    <ul>
+      <li>Developed SSIS and Informatica pipelines supporting CRM, Finance, and Operations.</li>
+      <li>Built enterprise dashboards using SSRS, Power BI, and Tableau.</li>
+      <li>Led cloud migration initiatives and BI modernization.</li>
+    </ul>
+  </div>
+</section>
+
+<section class="container">
+  <h2>Education & Certifications</h2>
+  <ul>
+    <li>M.S. Computer Science – Allama Iqbal International University</li>
+    <li>B.S. Computer Science</li>
+    <li>AZ-900 Microsoft Azure Fundamentals</li>
+    <li>Tableau, Informatica, SQL Server Certifications</li>
+  </ul>
+</section>
+
+<footer>
+  <p>© 2026 Muhammad Asif • Built for GitHub Pages</p>
+</footer>
+
+</body>
+</html>
